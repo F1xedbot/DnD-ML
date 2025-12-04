@@ -6,7 +6,7 @@ A machine learning-powered tool for analyzing top-down RPG map images, identifyi
   <strong>🎥 Learn how to use the tool by watching this video here:</strong>
 </p>
 
-
+https://github.com/user-attachments/assets/4760f5f4-9b95-45c4-99fa-223affbbd418
 
 **Main Application Interface**
 
@@ -98,3 +98,4 @@ If you prefer to install dependencies manually for just this tool:
 -   **UI**: CustomTkinter
 -   **ML**: PyTorch, Transformers (Hugging Face)
 -   **Database**: ZODB (Object Database)
+
