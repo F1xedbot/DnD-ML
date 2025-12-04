@@ -83,7 +83,7 @@ If you prefer to install dependencies manually for just this tool:
         -   **Get Image Labels**: Run the analysis to see which of your defined labels are present in the image.
         -   **Generate Tile Data**: Configure the grid size (e.g., 20x20) and generate the tile data.
         -   **Tile Data Preview**: Inspect individual tiles. Adjust the global walkability threshold to see how it affects the map.
-            ![Map Preview Result](assets/preview_panel.png)
+        ![Map Preview Result](assets/preview_panel.png)
         -   **Download JSON**: Export the data.
 
 ## Project Structure
@@ -98,4 +98,5 @@ If you prefer to install dependencies manually for just this tool:
 -   **UI**: CustomTkinter
 -   **ML**: PyTorch, Transformers (Hugging Face)
 -   **Database**: ZODB (Object Database)
+
 
