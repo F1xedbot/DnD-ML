@@ -7,7 +7,7 @@ Welcome to **DnD ML** — a set of small experiments combining Dungeons & Dragon
 | Tool | Description |
 |------|-------------|
 | **Battlemaps LoRA (SDXL)** | A LoRA for generating DnD-style battlemaps, built on **SDXL Base 1.0**. <br>Available here: https://civitai.com/models/2164519/dnd-battlemaps-generator |
-| **Terrain Labeling** <br>`src/terrain_labeling` | Uses CLIP and depth models to analyze top-down battlemaps, label terrain types, and estimate walkable areas. Outputs a structured grid for further use. |
+| [**Terrain Labeling**](src/terrain_labeling) <br>`src/terrain_labeling` | Uses CLIP and depth models to analyze top-down battlemaps, label terrain types, and estimate walkable areas. Outputs a structured grid for further use. |
 | **More soon** | More tools will be added as development continues. |
 
 ## Installation
@@ -30,3 +30,4 @@ uv run src/terrain_labeling/main.py
 ```
 
 That’s it. Thanks for checking out the project, all contribution are welcomed.
+
